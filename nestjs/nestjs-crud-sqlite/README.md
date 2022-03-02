@@ -29,28 +29,37 @@ $ npm run start:dev
 ## Screenshots
 
 Create first user
+
 ![create-user](screenshots/01create-user.png)
 
 Create second user
+
 ![create-second-user](screenshots/02create-second-user.png)
 
 Read users
+
 ![read-users](screenshots/03read-users.png)
 
 Update first user's email
+
 ![update-user-1](screenshots/04update-user-1.png)
 
 Read first user
+
 ![read-user-1](screenshots/05read-user-1.png)
 
 Update first user's password
+
 ![update-user-1](screenshots/06update-user-1.png)
 
 Read first user
+
 ![read-user-1](screenshots/07read-user-1.png)
 
 Delete second user
+
 ![delete-user-2](screenshots/08delete-user-2.png)
 
 Read users
+
 ![read-users](screenshots/09read-users.png)
