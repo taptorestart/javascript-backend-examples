@@ -1,4 +1,4 @@
-# NestJS Minimal example project
+# NestJS Minimal project
 Source: [NestJS OVERVIEW First steps](https://docs.nestjs.com/first-steps)
 
 ## Test Environments
