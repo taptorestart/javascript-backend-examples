@@ -1,6 +1,7 @@
 # Node.js Examples
 
 ## Node.js
+- [Node.js - Minimal](https://github.com/taptorestart/nodejs-examples/tree/main/nestjs/nodejs-minimal)
 - [Node.js - Kafka](https://github.com/taptorestart/nodejs-examples/tree/main/nodejs/nodejs-kafka)
 
 ## NestJS
