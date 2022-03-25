@@ -10,4 +10,5 @@
 - [NestJS - TypeORM with SQLite](https://github.com/taptorestart/nodejs-examples/tree/main/nestjs/nestjs-typeorm-sqlite)
 - [NestJS - TypeORM with MySQL](https://github.com/taptorestart/nodejs-examples/tree/main/nestjs/nestjs-typeorm-mysql)
 - [NestJS - CRUD, TypeORM with SQLite](https://github.com/taptorestart/nodejs-examples/tree/main/nestjs/nestjs-crud-sqlite)
+- [NestJS - CRUD, TypeORM with SQLite, and testing](https://github.com/taptorestart/nodejs-examples/tree/main/nestjs/nestjs-crud-sqlite-testing)
 - [NestJS - Kafka Consumer](https://github.com/taptorestart/nodejs-examples/tree/main/nestjs/nestjs-kafka-consumer)
