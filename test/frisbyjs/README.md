@@ -1,4 +1,4 @@
-# REST API Test by frisby.js 
+# REST API Test by frisby.js
 "Frisby makes REST API testing easy, fast, and fun." - [frisby.js documentation](https://docs.frisbyjs.com/)
 
 ## Install
@@ -17,6 +17,7 @@ This example is testing [NestJS - CRUD, TypeORM with SQLite](https://github.com/
 Please run NestJS example at first. Then run frisby.js example.
 
 Test Result Example
+
 ![Test result](screenshots/test-result.png)
 
 ![Run server](screenshots/run-server.png)
